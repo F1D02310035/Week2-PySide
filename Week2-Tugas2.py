@@ -1,3 +1,7 @@
+# Nama: Alysa Meliana
+# NIM: F1D02310035
+# Kelas: D
+
 import sys
 from PySide6.QtWidgets import (
     QApplication, QWidget, QLabel, QPushButton, QLineEdit, QVBoxLayout, QHBoxLayout, QMessageBox
